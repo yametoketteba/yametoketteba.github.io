@@ -1,0 +1,22 @@
+[
+  {
+    "service": "楽曲提供",
+    "price": "¥150,000〜",
+    "delivery": "2〜4週間"
+  },
+  {
+    "service": "編曲",
+    "price": "¥80,000〜",
+    "delivery": "2週間"
+  },
+  {
+    "service": "inst制作（カバー向け）",
+    "price": "¥30,000〜",
+    "delivery": "2〜7日"
+  },
+  {
+    "service": "MIX（パラ / Vo.MIX）",
+    "price": "¥20,000〜",
+    "delivery": "3日〜2週間"
+  }
+]
